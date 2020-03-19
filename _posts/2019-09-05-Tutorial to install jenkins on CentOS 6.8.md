@@ -1,3 +1,14 @@
+---
+layout: post
+title: Tutorial to install jenkins on CentOS 6.8
+permalink: # Add permalink ex: /javascript (optional)
+date: 2019-09-05 17:02:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [jenkins, CentOS]
+---
+
 ## Cài đặt các gói phụ thuộc của jenkins
 
 ### B1: Cập nhật hệ thống
@@ -35,9 +46,7 @@ Cài đặt biến môi trường:
 
 ```
 echo 'export JAVA_HOME=/usr/lib/jvm/jre-1.8.0-openjdk' | sudo tee -a /etc/profile
-```
 
-```
 echo 'export JRE_HOME=/usr/lib/jvm/jre' | sudo tee -a /etc/profile
 ```
 
@@ -64,7 +73,6 @@ echo $JRE_HOME
 cd ~
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
 ```
-
 
 ![Jenkin repo](https://toilamit.com/wp-content/uploads/2019/09/Jenkins-Download-repo.jpg)
 

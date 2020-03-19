@@ -1,4 +1,13 @@
-MySQL Interval
+---
+layout: post
+title: Tìm hiểu về MySQL Interval
+permalink: /mysql/mysql-interval
+date: 2019-09-12 09:00:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [mysql, mysql interval]
+---
 
 Bài viết này sẽ hướng dẫn bạn cách dùng interval value để thực hiện tính toán với date và time.
 

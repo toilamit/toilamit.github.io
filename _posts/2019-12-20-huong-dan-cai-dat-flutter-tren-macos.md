@@ -1,4 +1,13 @@
-# Cài đặt flutter
+---
+layout: post
+title: Hướng dẫn cài đặt Flutter trên MacOS
+date: 2019-09-12 11:37:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [flutter, dart]
+---
+## Cài đặt flutter
 
 ### Clone từ github
 

@@ -1,3 +1,14 @@
+---
+layout: post
+title: Docker life cycle
+permalink: 
+date: 2019-09-03 11:42:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [docker]
+---
+
 ## Vòng đời của một docker container
 Hình dưới đây mô tả vòng đời của một docker container, từ lúc create, run cho đến destroy
 
@@ -21,6 +32,7 @@ docker run -it -d --name <container-name> <image-name> bash</image-name></contai
 ```
 
 ![Magic of docker run](https://miro.medium.com/max/946/1*obzu32ZsInRqCr1mrQb5lA.jpeg)
+
 Nguồn: http://www.slideshare.net/w_akram/docker-introduction-59904719
 
 ## Pause container
@@ -81,4 +93,3 @@ docker rm <container-id name="">
 ```
 docker rm $(docker ps -q -f status=exited)
 ```
-

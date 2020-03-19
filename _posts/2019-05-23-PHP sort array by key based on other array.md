@@ -1,3 +1,13 @@
+---
+layout: post
+title: PHP sort array by key based on other array
+permalink: /php/sort-array-by-key-based-on-other-array
+date: 2019-05-23 15:49:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [php, array sort]
+---
 `asort` hoặc `usort` có thể làm tốt nhiệm vụ sắp xếp mảng trong PHP, nhưng sẽ như thế nào nếu bạn thực sự muốn sort theo custom key?
 
 Tôi có một ví dụ mảng:

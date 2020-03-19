@@ -1,3 +1,14 @@
+---
+layout: post
+title: Hiểu về comment trong MySQL
+permalink: /mysql/hieu-ve-comment-trong-mysql
+date: 2019-12-19 13:47:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [mysql, mysql comment]
+---
+
 Bài viết sẽ hướng dẫn cách sử dụng comment trong câu lệnh SQL hoặc các khối code trong MySQL.
 
 ## Comments

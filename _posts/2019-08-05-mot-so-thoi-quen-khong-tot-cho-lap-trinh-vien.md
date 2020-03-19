@@ -1,6 +1,15 @@
-Một số thói quen không tốt cho lập trình viên
+---
+layout: post
+title: Một số thói quen không tốt cho lập trình viên
+date: 2019-08-05 09:00:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [developer, thói quen]
+---
 
 Lập trình viên đang được săn đón. Nhu cầu thị trường việc làm rất cao, nên thu nhập nói chung cao hơn mặt bằng chung.
+
 Nhưng vài thói quen không tốt sẽ là thảm họa cho tương lai nghề nghiệp, sức khoẻ, và các mối quan hệ.
 
 ## 1. Không tập thể dục
