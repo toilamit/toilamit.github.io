@@ -1,3 +1,6 @@
+---
+---
+
 @import 'normalize';
 @import 'syntax';
 @import 'variables';
@@ -135,6 +138,16 @@ table tfoot td {
 .clearfix::after {
   clear: both;
 }
+
+/* - - - - - - - - - - Pagination Styles - - - - - - - - - - */
+.pagination > div {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 1rem;
+}
+
+/* - - - - - - - - - - Popup Search Styles - - - - - - - - - - */
+@import 'parts/popup-search';
 
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
