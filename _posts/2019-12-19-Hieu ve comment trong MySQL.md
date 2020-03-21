@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiểu về comment trong MySQL
-permalink: /mysql/hieu-ve-comment-trong-mysql
+categories: [MySQL]
 date: 2019-12-19 13:47:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)

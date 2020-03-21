@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hướng dẫn cài đặt Python 3.7 trên CentOS/RHEL 7/6 & Fedora 30-25
-permalink: # Add permalink ex: /javascript (optional)
+categories: [CentOS, Python]
 date: 2019-06-26 09:00:00 +0700
 description: You’ll find this post in your `_posts` directory # Add post description (optional)
 img: # Add image post ex: viet-dep-zai.jpg (optional)
