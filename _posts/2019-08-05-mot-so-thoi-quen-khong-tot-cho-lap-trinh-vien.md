@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Một số thói quen không tốt cho lập trình viên
+categories: [Uncategorized]
 date: 2019-08-05 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)

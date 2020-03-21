@@ -2,19 +2,27 @@
 layout: main
 ---
 {% for post in paginator.posts %}
+{% if post %}
+  {% assign categories = post.categories %}
+{% endif %}
 <article class="post">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
   {% else %}
+    {% assign postImg = "" %}
+    {% for category in categories %}
+      {% if categories[0] != "Uncategorized" %}
+        {% assign postImg = categories[0] | downcase | append: ".jpg" %}
+      {% endif %}
+    {% endfor %}
+    {% if postImg != "" %}
+      <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : postImg}})" href="{{post.url | prepend: site.baseurl}}"></a>
+    {% endif %}
   {% endif %}
+  
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
-
-    {% if post %}
-      {% assign categories = post.categories %}
-    {% endif %}
-
     <span class="post-categories">
       <i class="fa fa-folder-o" aria-hidden="true"></i>&nbsp;
       {% if categories.size > 0 %}
