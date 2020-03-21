@@ -17,7 +17,24 @@ layout: main
     <div class="wrap-content">
       <header class="header-page">
         <h1 class="page-title">{{page.title}}</h1>
-        <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+        <div class="page-meta">
+          {% if page %}
+            {% assign categories = page.categories %}
+          {% endif %}
+          <span class="page-categories">
+            <i class="fa fa-folder-o" aria-hidden="true"></i>&nbsp;
+            <!-- FIXME: what is the fuck here -->
+            {% if categories.size > 0 %}            
+              {% for category in categories %}
+              <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+              {% unless forloop.last %}&nbsp;{% endunless %}
+              {% endfor %}
+            {% else %}
+              <a href="{{site.baseurl}}/categories">Uncategorized</a>
+            {% endif %}&nbsp;&nbsp;&nbsp;—&nbsp;
+          </span>
+          <span class="page-date">{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        </div>
       </header>
       {{content | markdownify}}
       <div class="page-footer">

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Tối ưu google pagespeed insights cho website
+categories: [Wordpress, JS, Kamazuka]
 date: 2019-08-16 10:58:00 +0300
-description: Abcd de gdsdf sd
+description: 
 img: 
 fig-caption: 
 tags: [pagespeed, google insights, tăng tốc website, tối ưu website]

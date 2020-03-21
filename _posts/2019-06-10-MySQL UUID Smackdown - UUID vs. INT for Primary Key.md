@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MySQL UUID Smackdown - UUID vs. INT for Primary Key
-permalink: # Add permalink ex: /javascript (optional)
+categories: 
 date: 2019-06-10 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorial to install jenkins on CentOS 6.8
-permalink: # Add permalink ex: /javascript (optional)
+categories: [Linux, CentOS]
 date: 2019-09-05 17:02:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)

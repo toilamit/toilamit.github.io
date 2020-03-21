@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker life cycle
-permalink: 
+categories: [Docker]
 date: 2019-09-03 11:42:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
