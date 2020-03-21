@@ -1,12 +1,12 @@
 ---
 layout: post
 title: MySQL UUID Smackdown - UUID vs. INT for Primary Key
-categories: 
+categories: [MySQL]
 date: 2019-06-10 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
 fig-caption: # Add figcaption (optional)
-tags: [mysql]
+tags: [mysql, mysql uuid]
 ---
 
 Bài viết này sẽ giới thiệu bạn về MySQL UUID, và hướng dẫn sử dụng nó như là primary key (PK), và trình bày về pros và cons trong việc sử dụng nó như primary key.

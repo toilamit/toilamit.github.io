@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PHP sort array by key based on other array
-permalink: /php/sort-array-by-key-based-on-other-array
+categories: [PHP]
 date: 2019-05-23 15:49:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
