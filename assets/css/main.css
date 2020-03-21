@@ -1195,6 +1195,13 @@ a.newer-posts:hover {
           transform: translateX(-5px);
 }
 
+/* - - - - - - - - - - Pagination Styles - - - - - - - - - - */
+.pagination > div {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 1rem;
+}
+
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
   padding: 20px;
@@ -1384,7 +1391,8 @@ a.newer-posts:hover {
     width: 100%;
   }
   .post .post-content .post-title {
-    margin: 0 0 5px;
+    margin: 0 0 1rem;
+    line-height: 1;
   }
   .post .post-content .post-title a {
     font-size: 21px;
@@ -1475,7 +1483,8 @@ a.newer-posts:hover {
     width: 100%;
   }
   .post .post-content .post-title {
-    margin: 0 0 5px;
+    margin: 0 0 1rem;
+    line-height: 1;
   }
   .post .post-content .post-title a {
     font-size: 21px;
