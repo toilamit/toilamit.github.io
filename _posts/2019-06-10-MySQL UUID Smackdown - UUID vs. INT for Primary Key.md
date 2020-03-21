@@ -1,20 +1,34 @@
-MySQL UUID Smackdown: UUID vs. INT for Primary Key
+---
+layout: post
+title: MySQL UUID Smackdown - UUID vs. INT for Primary Key
+permalink: # Add permalink ex: /javascript (optional)
+date: 2019-06-10 09:00:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [mysql]
+---
 
 Bài viết này sẽ giới thiệu bạn về MySQL UUID, và hướng dẫn sử dụng nó như là primary key (PK), và trình bày về pros và cons trong việc sử dụng nó như primary key.
 
 ### Giới thiệu MySQL UUID
+
 Định danh duy nhất - Universally Unique IDentifier (UUID) được định nghĩa dựa trên [RFC 4122](https://tools.ietf.org/html/rfc4122), “a Universally Unique Identifier (UUID) URN Namespace).
 
 UUDI là số duy nhất trên toàn cầu về mặt không gian và thời gian. 2 UUID là khác biệt nhau ngay cả khi được tạo ra từ 2 máy chủ riêng biệt.
 
 Trong MySQL, UUID là 1 số dài 128-bit được biểu diễn dưới dạng chuỗi utf8 gồm 5 số thập lục phân theo định dạng sau:
-```
+
+```sql
 aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee
 ```
+
 Để tạo ra giá trị UUID, bạn sử dụng hàm `UUID()` như sau:
+
 ```sql
 UUID()
 ```
+
 Hàm `UUID()` trả về giá trị UUID tuân thủ theo UUID version 1 được mô tả trong RFC 4122.
 
 Ví dụ:
@@ -30,7 +44,9 @@ mysql> SELECT UUID();
 ```
 
 ### MySQL UUID vs. Auto-Increment INT như primary key
+
 #### Pros
+
 Một số ưu điểm của UUID:
 
 - Vì là giá trị duy nhất trong tables, databases hay thậm chí là các servers khác nhau cho nên sẽ dễ dàng merge dữ liệu từ các databases khác nhau mà không sợ trùng id.

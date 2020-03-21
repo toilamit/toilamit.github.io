@@ -1,4 +1,13 @@
-What is the !! (not not) operator in JavaScript?
+---
+layout: post
+title: What is the !! (not not) operator in JavaScript?
+permalink: # Add permalink ex: /javascript (optional)
+date: 2019-07-26 09:00:00 +0700
+description: 
+img: # Add image post ex: viet-dep-zai.jpg (optional)
+fig-caption: # Add figcaption (optional)
+tags: [javascript]
+---
 
 The other day I was rolling through some JavaScript to figure out how a 3rd party library ticked. As I scanned the lines of code I came across a line like the following:
 
