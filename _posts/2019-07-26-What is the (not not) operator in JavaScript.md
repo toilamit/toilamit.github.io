@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What is the !! (not not) operator in JavaScript?
-permalink: # Add permalink ex: /javascript (optional)
+categories: [Javascript]
 date: 2019-07-26 09:00:00 +0700
 description: 
-img: # Add image post ex: viet-dep-zai.jpg (optional)
+img: js-1.png
 fig-caption: # Add figcaption (optional)
 tags: [javascript]
 ---

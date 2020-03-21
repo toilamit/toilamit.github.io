@@ -1,0 +1,33 @@
+---
+layout: main
+title: Categories
+permalink: /categories/
+---
+
+<section class="blog-tags">
+  <h1>Categories in Blog</h1>
+  <ul class="tags">
+<!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
+  {% for this_word in tag_words %}
+    <li ><a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+  {% endfor %}
+  </ul>
+
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div class="archive-group">
+    <div class="anchor">
+      <a href="#{{ category_name | cgi_escape }}"></a>
+    </div>
+
+    <h2 id="{{ category_name | cgi_escape }}">{{ category_name }}</h2>
+
+      {% for post in site.categories[category_name] %}{% if post.title != null %}
+      <div class="tag-list">
+          <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+          <small><span>| {{ post.date | date_to_string }}</span></small>
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  {% endfor %}
+</section>

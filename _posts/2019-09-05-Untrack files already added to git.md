@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Untrack files already added to git
-permalink: # Add permalink ex: /javascript (optional)
+categories: [Git]
 date: 2019-09-05 13:37:00 +0700
 description: You’ll find this post in your `_posts` directory # Add post description (optional)
 img: # Add image post ex: viet-dep-zai.jpg (optional)

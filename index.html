@@ -10,6 +10,22 @@ layout: main
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
     <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% endif %}
+
+    <span class="post-categories">
+      <i class="fa fa-folder-o" aria-hidden="true"></i>&nbsp;
+      {% if categories.size > 0 %}
+        {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+        {% endfor %}
+      {% else %}
+        <a href="{{site.baseurl}}/categories">Uncategorized</a>
+      {% endif %}&nbsp;&nbsp;&nbsp;—&nbsp;
+    </span>
     <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
     <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
   </div>

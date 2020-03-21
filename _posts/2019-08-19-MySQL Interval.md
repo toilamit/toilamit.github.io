@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tìm hiểu về MySQL Interval
-permalink: /mysql/mysql-interval
+categories: [MySQL]
 date: 2019-09-12 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
