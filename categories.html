@@ -20,7 +20,7 @@ permalink: /categories/
       <a href="#{{ category_name | cgi_escape }}"></a>
     </div>
 
-    <h2 id="{{ category_name | cgi_escape }}">{{ category_name }}</h2>
+    <h2 id="{{ category_name | cgi_escape }}">{{ category_name }} <small>({{ site.categories[category_name].size }})</small></h2>
 
       {% for post in site.categories[category_name] %}{% if post.title != null %}
       <div class="tag-list">
