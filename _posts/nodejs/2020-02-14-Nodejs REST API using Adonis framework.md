@@ -4,7 +4,7 @@ title: Nodejs RESTful API using Adonis framework
 categories: [Javascript, Nodejs]
 date:  2020-02-14 11:29:00 +0700
 description: 
-img: 
+img: nodejs.png
 fig-caption: 
 tags: [nodejs, RESTful API]
 ---

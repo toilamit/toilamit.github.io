@@ -4,7 +4,7 @@ title: Hướng dẫn cài đặt Python 3.7 trên CentOS/RHEL 7/6 & Fedora 30-2
 categories: [Linux, CentOS]
 date: 2019-06-26 09:00:00 +0700
 description: 
-img: # Add image post ex: viet-dep-zai.jpg (optional)
+img: centos.jpg
 fig-caption: # Add figcaption (optional)
 tags: [linux, CentOS, python]
 ---
