@@ -3,10 +3,10 @@ layout: post
 title: Untrack files already added to git
 categories: [Git]
 date: 2019-09-05 13:37:00 +0700
-description: You’ll find this post in your `_posts` directory # Add post description (optional)
+description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Holidays, Hawaii]
+tags: [git, remove files, untrack files]
 ---
 
 Bài viết chỉ ra cách để xóa các file không cần thiết khỏi repository và đưa vào file `.gitignore` và đồng thời vẫn giữ nguyên các file đó ở local.

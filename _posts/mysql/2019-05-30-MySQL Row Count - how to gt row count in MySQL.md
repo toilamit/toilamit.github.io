@@ -1,12 +1,12 @@
 ---
 layout: post
 title: MySQL Row Count - How to Get Row Count in MySQL
-permalink: # Add permalink ex: /javascript (optional)
+categories: [MySQL]
 date: 2019-05-30 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
 fig-caption: # Add figcaption (optional)
-tags: [mysql]
+tags: [mysql, mysql row count]
 ---
 
 Bài viết này sẽ hướng dẫn nhiều cách khác nhau để lấy số lượng bản ghi trong database.

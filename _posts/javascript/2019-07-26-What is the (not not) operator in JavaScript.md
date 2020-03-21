@@ -6,7 +6,7 @@ date: 2019-07-26 09:00:00 +0700
 description: 
 img: js-1.png
 fig-caption: # Add figcaption (optional)
-tags: [javascript]
+tags: [javascript, js, js opeartor]
 ---
 
 The other day I was rolling through some JavaScript to figure out how a 3rd party library ticked. As I scanned the lines of code I came across a line like the following:

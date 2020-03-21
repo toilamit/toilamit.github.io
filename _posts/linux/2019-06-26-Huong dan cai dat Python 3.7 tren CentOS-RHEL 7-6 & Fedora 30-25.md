@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Hướng dẫn cài đặt Python 3.7 trên CentOS/RHEL 7/6 & Fedora 30-25
-permalink: # Add permalink ex: /javascript (optional)
+categories: [Linux, CentOS]
 date: 2019-06-26 09:00:00 +0700
-description: You’ll find this post in your `_posts` directory # Add post description (optional)
+description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
 fig-caption: # Add figcaption (optional)
-tags: [linux, CentOS]
+tags: [linux, CentOS, python]
 ---
 
 Python là một ngôn ngữ rất mạnh, thân thiện và rất dễ sử dụng. Tại thời điểm viết bài này thì phiên bản mới nhất là Python 3.7.3, bạn có thể download ở [đây](https://www.python.org/downloads/). Trong bài viết này sẽ hướng dẫn bạn cách cài đặt Python 3.7 trên hệ thống CentOS, Red Hat & Fedora.

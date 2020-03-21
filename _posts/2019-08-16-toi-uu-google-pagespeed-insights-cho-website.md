@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tối ưu google pagespeed insights cho website
-categories: [Wordpress, JS, Kamazuka]
+categories: [Wordpress]
 date: 2019-08-16 10:58:00 +0300
 description: 
 img: 
