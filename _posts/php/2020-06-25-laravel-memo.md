@@ -2,7 +2,7 @@
 layout: post
 title: Laravel Memo
 categories: [PHP, Laravel]
-date: 2020-06-07 09:00:00 +0700
+date: 2020-06-25 09:00:00 +0700
 description: 
 img: laravel.jpg
 fig-caption: # Add figcaption (optional)
