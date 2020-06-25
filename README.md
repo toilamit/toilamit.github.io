@@ -1,3 +1,20 @@
+# How to use
+
+```
+bundle install
+```
+
+```
+jekyll serve
+```
+
+```
+jekyll build
+```
+
+# Jekyll cheat sheet
+https://learn.cloudcannon.com/jekyll-cheat-sheet/
+
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
