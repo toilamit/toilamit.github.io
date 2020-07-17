@@ -3,8 +3,8 @@ layout: post
 title: How to Enable HTTP:2 in Amazon EC2 running on Apache
 categories: [linux]
 date: 2020-07-17 09:00:00 +0700
-description: 
-img: # Add image post ex: viet-dep-zai.jpg (optional)
+description: Tìm hiểu về HTTP2 và hướng dẫn enable HTTP2 trên Amazon EC2 với Apache.
+img: http2.jpg
 fig-caption: # Add figcaption (optional)
 tags: [linux, apache, httpd, http2, amazon EC2]
 ---
