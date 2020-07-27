@@ -46,4 +46,4 @@ $ git push --set-upstream second_remote master
 ```
 
 ## Refs:
-- https://www.cloudsavvyit.com/2464/how-to-use-git-with-multiple-remote-repositories/
+- <a href="https://www.cloudsavvyit.com/2464/how-to-use-git-with-multiple-remote-repositories/" target="_blank">https://www.cloudsavvyit.com/2464/how-to-use-git-with-multiple-remote-repositories/</a>
