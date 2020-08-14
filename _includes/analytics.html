@@ -1,4 +1,4 @@
- <!-- End Analytics -->
+{% if site.analytics %}
  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48430890-7"></script>
 <script>
@@ -6,6 +6,6 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-48430890-7');
+  gtag('config', {{ site.analytics }});
 </script>
-
+{% endif %}

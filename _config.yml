@@ -18,10 +18,13 @@ social-linkedin: vietnt
 social-email: toilamit.com@gmail.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: toilamit # add your discus identifier
+
+# Fb-comment
+enable-fb-comment: true
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-48430890-7 # Google Analytics
 
 # Build Settings
 markdown: kramdown
