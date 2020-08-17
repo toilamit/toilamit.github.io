@@ -11,3 +11,4 @@ tags: [python, django, celery worker, celery beat, django celery, celery]
 
 ## Refs
 - <a href="#" target="_blank">https://steemit.com/code/@qrul/celery-beat-and-workers-healthchecks</a>
+- <a href="#" target="_blank">https://realpython.com/django-migrations-a-primer/#setting-up-a-django-project</a>
