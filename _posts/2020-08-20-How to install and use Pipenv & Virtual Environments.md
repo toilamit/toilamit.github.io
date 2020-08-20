@@ -4,7 +4,7 @@ title: How to install and use Pipenv & Virtual Environments
 categories: [Python]
 date: 2020-08-20 09:00:00 +0700
 description: 
-img: python-venv-pipenv.jpeg
+img: python-venv-pipenv.jpg
 fig-caption: Pipenv & Virtual Environments
 tags: [python, venv, pipenv]
 ---
