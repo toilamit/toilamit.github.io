@@ -41,6 +41,11 @@ $ python3 -m pip install django
 $ django-admin startproject PROJECT_NAME
 ```
 
+Sau khi tạo mới project thì các bạn cd vào project đã tạo bằng lệnh
+
+```
+$ cd PROJECT_NAME
+```
 
 Oke well done, các lệnh dưới cứ mở terminal lên và run thôi nha :)
 
