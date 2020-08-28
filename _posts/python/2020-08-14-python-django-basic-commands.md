@@ -30,6 +30,18 @@ $ python3 -V
 $ python3 -m django version
 ```
 
+## Create Django project
+### Installing Django
+```
+$ python3 -m pip install django
+```
+
+### Create new project
+```
+$ django-admin startproject PROJECT_NAME
+```
+
+
 Oke well done, các lệnh dưới cứ mở terminal lên và run thôi nha :)
 
 Lưu ý là bạn phải ở thư mục dự án Django mà có file `manage.py` à nha :P
