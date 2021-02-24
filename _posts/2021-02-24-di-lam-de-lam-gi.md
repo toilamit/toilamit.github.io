@@ -4,7 +4,7 @@ title: Đi làm để làm gì?
 categories: [Kinh nghiệm]
 date: 2021-02-24 09:00:00 +0700
 description: Hằng ngày chúng ta vẫn đang lặp lại những công việc mà chúng ta đang làm, đôi khi thấy chán nản, thấy thích thú. Nhưng đã bao giờ bạn thực sự đặt câu hỏi là 'đi làm để làm gì' chưa?
-img: 
+img: kinh-nghiem.jpg
 fig-caption: # Add figcaption (optional)
 tags: [kinh nghiệm, việc làm it, kinh nghiệm it, kinh nghiem it]
 ---
