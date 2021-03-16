@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:" Write an awesome
 categories: Uncategorized
 permalink: '/:categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kysuit.net" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
