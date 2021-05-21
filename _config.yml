@@ -6,6 +6,7 @@ permalink: '/:categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kysuit.net" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
+site-name: "KysuIT.net"
 
 # Author Settings
 author: Viet Nguyen Tien # add your name

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Use git with Multiple Remote Repositories
-categories: [Git]
+categories: [git]
 date: 2020-07-24 09:00:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)

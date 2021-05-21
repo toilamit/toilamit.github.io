@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Untrack files already added to git
-categories: [Git]
+categories: [git]
 date: 2019-09-05 13:37:00 +0700
 description: 
 img: # Add image post ex: viet-dep-zai.jpg (optional)
