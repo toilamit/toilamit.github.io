@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kysuit.net/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/aws/how-to-backup-sql-and-upload-to-aws-s3/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/categories/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/javascript-this-interview/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/git/conventional-commits/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/learn-tmux-basic/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/kinh%20nghi%E1%BB%87m/di-lam-de-lam-gi/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/python/django/reset-migrations-in-django/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/aws/dynamodb/dynamodb-cli-commands-and-query/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/apache/apache-web-server-security-configuration/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/script-to-backup-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/20-mau-cau-khi-viet-email-tieng-anh/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/2/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/tags/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/hieu-ve-comment-trong-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-get-mysql-today-s-date/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-interval/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-map-null-values-to-other-meaningful-values/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-null-the-beginner-s-guide/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-reset-auto-increment-values/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-select-the-nth-highest-record-in-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-select-random-records/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-row_number,-this-is-how-you-emulate-it/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-regexp-search-based-on-regular-expressions/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-change-mysql-storage-engine/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-compare-successive-rows-within-the-same-table-in-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-variables/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-select-into-variable/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-copy-table-with-examples/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-use-the-mysql-generated-columns/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-copy-a-mysql-database/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-uuid-smackdown-uuid-vs.-int-for-primary-key/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-row-count-how-to-gt-row-count-in-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-compare-two-tables/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-find-duplicate-values-in-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/how-to-delete-duplicate-rows-in-mysql/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/managing-hierarchical-data-in-mysql-using-the-adja/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/mysql-an-introduction-to-mysql-cte/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/download-mysql-sample-database/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/mysql/a-definitive-guide-to-mysql-recursive-cte/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/php/laravel/laravel-memo/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/php/php-get-absolute-path,-document-root,-base-url/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/php/php-sort-array-by-key-based-on-other-array/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/nodejs/nodejs-rest-api-using-adonis-framework/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-jquery/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-events/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/list-of-javascript-libraries/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/what-is-the-(not-not)-operator-in-javascript/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/9-ways-to-remove-elements-from-a-javascript-array/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-testing/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-standard-library/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-resources/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-performance/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-whitespace/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-variables/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-type-casting-&amp;-coercion/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-semicolons/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-properties/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-naming-conventions/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-modules/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-accessors/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-iterators-and-generators/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-hoisting/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-functions/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-control-statements/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-comparison-operators-&amp;-equality/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-comments/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-commas/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-classes-&amp;-constructors/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-blocks/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-arrow-functions/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-strings/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-objects/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-destructuring/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/javascript/serials-javascript-style-guide-array/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/bash/show-prompt-confirmation-in-bash-script/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/centos/tutorial-to-install-jenkins-on-centos-6.8/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/centos/huong-dan-cai-dat-python-3.7-tren-centos-rhel-7-6-&amp;-fedora-30-25/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/uncategorized/mot-so-thoi-quen-khong-tot-cho-lap-trinh-vien/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/wordpress/toi-uu-google-pagespeed-insights-cho-website/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/docker/docker-life-cycle/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/git/use-git-with-multiple-remote-repositories/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/git/untrack-files-already-added-to-git/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/flutter/huong-dan-cai-dat-flutter-tren-macos/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/skills/ky-nang-estimate-va-tro-lo-cua-varant/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/skills/5S-lean-workspace/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/kinh%20nghi%E1%BB%87m/brse/chia-se-kinh-nghiem-vao-doi-brse/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/linux/how-to-enable-http-2-in-amazon-ec2-running-on-apache/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/python/django/python-django-basic-commands/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/python/how-to-install-and-use-pipenv-&amp;-virtual-environments/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/3/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/4/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/5/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/6/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/7/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/8/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://kysuit.net/page/9/</loc>
+  <lastmod>2021-05-21T10:02:50+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
+</urlset>
