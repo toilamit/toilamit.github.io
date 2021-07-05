@@ -2,7 +2,7 @@
 layout: post
 title: How to compare strings in Bash
 categories: [bash-programming]
-date: 2021-01-01 14:30:00 +0700
+date: 2021-07-01 14:30:00 +0700
 description: This article will show you how to compare two strings in Bash. There are a lot of ways to compare two strings value in Bash. Let's learn how to compare two strings in bash.
 img: # Add image post ex: viet-dep-zai.jpg (optional)
 fig-caption: # Add figcaption (optional)
