@@ -84,13 +84,13 @@ $ git tag
 Xem tags cùng với dòng đầu tiên của message chú thích hoặc commit message đầu tiên nếu như tag không được chú thích.
 
 ```console
-git tag -n
+$ git tag -n
 ```
 
 Xem tag với 5 dòng đầu tiên của message chú thích hoặc commit:
 
 ```console
-git tag -n5
+$ git tag -n5
 ```
 
 Xem toàn bộ tags với mẫu có sẵn. Ví dụ liệt kê tất cả các tags bắt đầu bằng `v`:
