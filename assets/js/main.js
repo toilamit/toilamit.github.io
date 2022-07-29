@@ -45,6 +45,10 @@ $(document).ready(function () {
             text: "If you think your teacher is tough, wait till you get a boss.",
             author: "Bill Gates",
         },
+        {
+            text: "Sự khác biệt giữa một nhà quản lý giỏi với người khác chính là biết cách dùng người.",
+            author: "Peter Drucker",
+        },
     ];
     let blockQuote = random_item(famousSaying);
     $(".famous-saying__text").html(blockQuote.text);
