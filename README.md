@@ -1,43 +1,44 @@
 # How to use
+
 ## Install dependencies
 
-```
+```console
 bundle install
 ```
 
 ## Update dependencies
 
-```
+```console
 bundle update [gemname]
 ```
 
 ## see where a bundled gem is installed
 
-```
+```console
 bundle info [gemname]
 ```
 
 ## Upgrade jekyll
 
-```
+```console
 bundle update jekyll
 ```
 
-```
+```console
 jekyll serve
 ```
 
-```
+```console
 jekyll build
 ```
 
 ## Jekyll cheat sheet
-https://learn.cloudcannon.com/jekyll-cheat-sheet/
 
+https://learn.cloudcannon.com/jekyll-cheat-sheet/
 
 ## Errors
 
-```
+```console
 Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
 
     current directory: /Users/nguyentienviet/.rvm/gems/ruby-3.0.2/gems/eventmachine-1.2.7/ext
