@@ -4,7 +4,7 @@ title: 6 tools to turn code into beautiful diagrams
 categories: [Tools]
 date: 2024-07-25 09:00:00 +0700
 description: 6 tools to turn code into beautiful diagrams
-img: turn code into diagram.png
+img: turn-code-into-diagram.png
 fig-caption: # Add figcaption (optional)
 tags: [tools, diagram]
 ---
