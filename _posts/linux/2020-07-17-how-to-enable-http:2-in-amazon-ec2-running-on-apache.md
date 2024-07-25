@@ -25,7 +25,7 @@ Là sao nhỉ? Liên quan tới HTTP2 à? [HTTP2 là quần què gì?](https://e
 
 Khoan. Test làm gì nhỉ? Có lỗi trên kia thì là chưa có HTTP2 rồi. Hỏi chi nữa LOL.
 
-Lại lóc có, gu gồ, hỏi đàn anh đàn chị, mafia, yakuza.. cũng hiểu và bắt đầu làm theo =))
+Lại lóc có, gu gồ, hỏi đàn anh đàn chị, mafia, yakuza.. cũng hiểu và bắt đầu làm theo =)).
 
 ## Enable HTTP2
 
